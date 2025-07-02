@@ -1,7 +1,0 @@
-This is Git Lab 1
-<<<<<<< HEAD
-line from main
-=======
-Adding more content
-Line from dev2
->>>>>>> dev2
